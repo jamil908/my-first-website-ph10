@@ -8,3 +8,19 @@ background-color: red;
 #btn{
     cursor: pointer;
 }
+.navber{
+    display: flex;
+    gap: 10px;
+    font-size: 25px;
+    text-align: right;
+    text-decoration: underline;
+    justify-content: flex-end;
+}
+.headstyle{
+    margin: 20px;
+ box-shadow: 10px 10px 6px aqua;
+    border: 10px solid blue;
+}
+*{
+    margin: 0px;
+}
